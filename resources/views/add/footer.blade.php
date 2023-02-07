@@ -1,4 +1,5 @@
-<footer class="bg-black px-2 pt-5">
+<footer class="bg-black bg-opacity-95 px-2 pt-5">
+    <hr class="mx-96 mb-10">
     <div class="grid lg:grid-cols-3 gap-10">
         <div class="flex flex-col items-start">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 0 text-purple-500">
